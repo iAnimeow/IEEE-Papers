@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "Active Harmonic Filter",
+      "path": "Controls"
+    }
+  ],
+  "settings": {
+    "latex-workshop.latex.rootFile.useSubFile": false,
+    "latex-workshop.latex.outDir": "%DIR%/build",
+    "files.associations": {
+      "*.tex": "latex",
+      "*.bib": "bibtex"
+    }
+  }
+}
